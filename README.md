@@ -1,1 +1,1 @@
-# Patika.dev-Blog-Yaz-s-Projesi
+# Patika.dev-Blog-Yazisi-Projesi
